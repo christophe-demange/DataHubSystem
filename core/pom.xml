@@ -10,7 +10,7 @@
       <olingo.version>2.0.1</olingo.version>
       <solr.version>4.10.3</solr.version>
       <spring.version>4.1.4.RELEASE</spring.version>
-      <spring_security.version>3.2.5.RELEASE</spring_security.version>
+      <spring_security.version>5.3.3.RELEASE</spring_security.version>
    </properties>
    
    <parent>
