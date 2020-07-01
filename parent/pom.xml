@@ -7,7 +7,7 @@
 
    <properties>
       <dhus.version>0.4.3-5-1</dhus.version>
-      <log4j.version>2.1</log4j.version>
+      <log4j.version>2.13.3</log4j.version>
       <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
    </properties>
 
